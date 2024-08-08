@@ -1,6 +1,7 @@
 ### Terve 👋
 - 📚 Computer Science student @ Åbo Akademi, Finland
 - 🔭 Fullstack Web Developer
+- Take the Go pill 🐹
 <!--
 **miikisalminen/miikisalminen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
