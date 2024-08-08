@@ -1,7 +1,7 @@
 ### Terve 👋
 - 📚 Computer Science student @ Åbo Akademi, Finland
 - 🔭 Fullstack Web Developer
-- Take the Go pill 🐹
+- 🐹 Take the Go pill 
   
 ![meme](https://i.imgflip.com/8znh8d.jpg)
 <!--
